@@ -116,6 +116,10 @@ The current information will summarize important items of this repository. In th
 
 The following list, represents the set of related repositories for the presented one:
 
+- [`dataset-uta7-demographics`](https://github.com/MIMBCD-UI/dataset-uta7-demographics)
+
+- [`dataset-uta7-ad`](https://github.com/MIMBCD-UI/dataset-uta7-ad)
+
 - [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
 
 - [`dataset-uta7-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta7-nasa-tlx)
@@ -123,6 +127,10 @@ The following list, represents the set of related repositories for the presented
 - [`dataset-uta7-time`](https://github.com/MIMBCD-UI/dataset-uta7-time)
 
 - [`dataset-uta7-rates`](https://github.com/MIMBCD-UI/dataset-uta7-rates)
+
+- [`dataset-uta7-co-variables`](https://github.com/MIMBCD-UI/dataset-uta7-co-variables)
+
+- [`dataset-uta7-annotations`](https://github.com/MIMBCD-UI/dataset-uta7-annotations)
 
 - [`dataset-uta7-dicom`](https://github.com/MIMBCD-UI/dataset-uta7-dicom)
 
