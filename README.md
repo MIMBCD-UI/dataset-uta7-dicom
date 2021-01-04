@@ -156,18 +156,30 @@ Our team brings everything together sharing ideas and the same purpose, developi
 
 * Francisco Maria Calisto [ [Website](https://web.tecnico.ulisboa.pt/francisco.calisto) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/) ]
 
+* Carlos Santiago [ [ResearchGate](https://www.researchgate.net/profile/Carlos_Santiago6) ]
+
+* Nuno Nunes [ [ResearchGate](https://www.researchgate.net/profile/Nuno_Nunes2) ]
+
+* Jacinto Nascimento [ [ResearchGate](https://www.researchgate.net/profile/Jacinto_Nascimento) ]
+
 #### Revisors
 
 * Hugo Lencastre [ [ResearchGate](https://www.researchgate.net/profile/Hugo_Lencastre) ]
 
 * Nádia Mourão [ [ResearchGate](https://www.researchgate.net/profile/Nadia_Mourao) ]
 
-#### Participants
+#### Companions
 
-* Carlos Santiago
-* Jacinto C. Nascimento
+* Alfredo Ferreira
+* Bruno Cardoso
+* Bruno Dias
+* Bruno Oliveira
+* Catarina Barata
+* Daniel Gonçalves
+* João Bernardo Tavares
+* Luís Ribeiro Gomes
+* Madalena Pedreira
 * Pedro Miraldo
-* Nuno Nunes
 
 #### Acknowledgements
 
