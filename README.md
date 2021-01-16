@@ -86,6 +86,12 @@ Please, feel free to try out our demo. It is a script called `demo.py` at the `s
 python src/demo.py
 ```
 
+Or, you can run the shell script by:
+
+```bash
+./scripts/reader.sh
+```
+
 Just keep in mind this is just a demo, so it does nothing more than downloading data to an arbitrary destination directory if the directory does not exist or does not have any content. Also, we did our best to make the demo as user-friendly as possible, so, above everything else, have fun! 😁
 
 ## Roadmap
