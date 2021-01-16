@@ -132,6 +132,8 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta7-dicom`](https://github.com/MIMBCD-UI/dataset-uta7-dicom)
 
+- [`dataset-uta7-heatmaps`](https://github.com/MIMBCD-UI/dataset-uta7-heatmaps)
+
 - [`dataset-uta7-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta7-nasa-tlx)
 
 - [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
