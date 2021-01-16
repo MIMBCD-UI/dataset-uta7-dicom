@@ -146,11 +146,11 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta10-dicom`](https://github.com/MIMBCD-UI/dataset-uta10-dicom)
 
--[`prototype-multi-modality-assistant`](https://github.com/mida-project/prototype-multi-modality-assistant)
+- [`prototype-multi-modality-assistant`](https://github.com/mida-project/prototype-multi-modality-assistant)
 
--[`prototype-heatmap`](https://github.com/mida-project/prototype-heatmap)
+- [`prototype-heatmap`](https://github.com/mida-project/prototype-heatmap)
 
--[`prototype-multi-modality`](https://github.com/MIMBCD-UI/prototype-multi-modality)
+- [`prototype-multi-modality`](https://github.com/MIMBCD-UI/prototype-multi-modality)
 
 ### Dataset Resources
 
