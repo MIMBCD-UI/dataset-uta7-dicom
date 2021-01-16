@@ -146,6 +146,12 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta10-dicom`](https://github.com/MIMBCD-UI/dataset-uta10-dicom)
 
+-[`prototype-multi-modality-assistant`](https://github.com/mida-project/prototype-multi-modality-assistant)
+
+-[`prototype-heatmap`](https://github.com/mida-project/prototype-heatmap)
+
+-[`prototype-multi-modality`](https://github.com/MIMBCD-UI/prototype-multi-modality)
+
 ### Dataset Resources
 
 To publish our [datasets](https://www.kaggle.com/MIMBCD-UI) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI).
