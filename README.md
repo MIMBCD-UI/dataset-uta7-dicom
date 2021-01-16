@@ -124,6 +124,8 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta7-ad`](https://github.com/MIMBCD-UI/dataset-uta7-ad)
 
+- [`dataset-uta7-ai`](https://github.com/MIMBCD-UI/dataset-uta7-ai)
+
 - [`dataset-uta7-annotations`](https://github.com/MIMBCD-UI/dataset-uta7-annotations)
 
 - [`dataset-uta7-co-variables`](https://github.com/MIMBCD-UI/dataset-uta7-co-variables)
