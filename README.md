@@ -138,9 +138,9 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta7-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta7-nasa-tlx)
 
-- [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
-
 - [`dataset-uta7-rates`](https://github.com/MIMBCD-UI/dataset-uta7-rates)
+
+- [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
 
 - [`dataset-uta7-time`](https://github.com/MIMBCD-UI/dataset-uta7-time)
 
