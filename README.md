@@ -155,7 +155,11 @@ The following list, represents the set of related repositories for the presented
 
 To publish our [datasets](https://www.kaggle.com/MIMBCD-UI) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI). Last but not least, you can also follow our work at [data.world](https://data.world/mimbcdui-project), [figshare.com](https://figshare.com/authors/MIMBCD-UI_Project/8674887) and [openml.org](https://www.openml.org/u/11806) platforms.
 
-#### TODO
+#### Discovery & Comparison
+
+For the latest State-Of-The-Art (SOTA) achievements, we used the [`paperswithcode.com`](https://paperswithcode.com/) platform. The platform consists of several benchmarks, tasks, and papers with code. Specifically, the platform promotes discovery and comparison of different models for available *datasets*. We used this platform to give the scientific community the opportunity to reproduce the results and compare it with the model performance metrics of others.
+
+To this end, we have published the baseline of the published *dataset* to challenge the community for surpassing the baseline results:
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/breastscreening-on-the-use-of-multi-modality/medical-diagnosis-on-mimbcd-ui-uta7-medical)](https://paperswithcode.com/sota/medical-diagnosis-on-mimbcd-ui-uta7-medical?p=breastscreening-on-the-use-of-multi-modality)
 
